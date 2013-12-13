@@ -1,9 +1,9 @@
 <?php
 
-namespace ACS\ACSCommentToTwig;
+namespace ACS\ACSAnnotationToTwig;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class ACSACSCommentToTwig extends Bundle
+class ACSACSAnnotationToTwig extends Bundle
 {
 }
