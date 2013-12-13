@@ -1,6 +1,6 @@
 {
-    "name": "acs/commenttotwig",
-    "description": "Add comments to your actions to set twig variables",
+    "name": "acs/annotationtotwig",
+    "description": "Add annotations to your actions to set twig variables",
     "type": "library",
     "autoload": {
         "psr-0": { "": "" }
